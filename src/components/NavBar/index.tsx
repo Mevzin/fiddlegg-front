@@ -76,8 +76,8 @@ export default function NavBar() {
 
   return (
     <NavBarModify fixed="top">
-      <Logo src={logo} alt="brisa.gg" />
-      <TextLogo href="/">BRISA.GG</TextLogo>
+      <Logo src={logo} alt="Diddle.gg" />
+      <TextLogo href="/">FIDDLE.GG</TextLogo>
       <Navbar.Toggle aria-controls="navbarScroll" />
       <Navbar.Collapse id="navbarScroll">
         <FormModify action={`/summoner/${summonerReS}/${locale}`} className="d-flex">

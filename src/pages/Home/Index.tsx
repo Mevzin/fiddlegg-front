@@ -78,7 +78,7 @@ export default function Home() {
           <Img src={logo} alt="logo" />
           <span>
             <strong>
-              BRISA.GG
+              FIDDLE.GG
             </strong>
           </span>
         </Header>
